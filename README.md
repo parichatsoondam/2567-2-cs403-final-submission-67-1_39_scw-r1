@@ -11,6 +11,5 @@
    
 # Project Description
 โครงงานนี้มีวัตถุประสงค์เพื่อพัฒนาระบบรู้จำชิ้นส่วนอะไหล่รถจักรยานยนต์โดยใช้เทคโนโลยีปัญญาประดิษฐ์ (AI) ด้วยโมเดล MobileNetV2 ที่ผ่านการฝึกสอนบนชุดข้อมูลภาพอะไหล่รถจักรยานยนต์ต่าง ๆ เพื่อช่วยในการจำแนกประเภทชิ้นส่วนอย่างแม่นยำและรวดเร็ว
-# requirements
 # demo
 download ไฟล์ demo ได้ที่นี่ : https://drive.google.com/drive/folders/1Yqi3sMK4OlAjbZRWbpLxbGWeiXUGYqVi?usp=drive_link
