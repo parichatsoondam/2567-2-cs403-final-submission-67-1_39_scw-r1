@@ -9,7 +9,6 @@
 **ผู้จัดทำโครงงาน:**
 1. นางสาวปาริฉัตร ศูนย์ดำ  6109610102  parichat.soo@dome.tu.ac.th
    
-Manual / Instructions for your projects starts here !
 # requirements
 # dataset
 # model
